@@ -9,7 +9,7 @@ layout: default
         <h1>zuoxiaozuo</h1>
         <a href="http://weibo.com/zuoxiaozuozuozuo/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://www.zhihu.com/people/zuo-xiao-zuozuo/" target="_blank"><img src="http://www.zhihu.com/favicon.ico" alt="" width="22"/></a>
-        <a href="http://instagram.com/beiyuu/" target="_blank"><img src="https://www.instagram.com/zuoxiaozuozuo/" alt="" width="22"/></a>
+        <a href="http://instagram.com/zuoxiaozuozuo/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
